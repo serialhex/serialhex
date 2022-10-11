@@ -1,6 +1,7 @@
 - 👋 Yo, I’m @serialhex
 - I like functional programming, and programming languages in general.
 - Logic is fun, Lisp is fun, C is not fun.
+- Contact me via email, I have the gmail.
 
 ## Some stats
 
